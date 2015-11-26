@@ -22,7 +22,7 @@
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="ctrl #100007c" />
   </action>
-  <action id="QuickList.Useful Operations">
+  <action id="QuickList.Quicklist">
     <keyboard-shortcut first-keystroke="alt #100007c" />
   </action>
   <action id="SwitchApply">
