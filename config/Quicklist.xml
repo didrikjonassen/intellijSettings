@@ -1,0 +1,16 @@
+<list display="Quicklist" description="The one quicklist to rule them all">
+  <action id="ToggleDistractionFreeMode" />
+  <action id="ToggleFullScreen" />
+  <action id="QuickList.$Separator$" />
+  <action id="Git.Fetch" />
+  <action id="Annotate" />
+  <action id="Git.Branches" />
+  <action id="Git.Stash" />
+  <action id="Git.Unstash" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="QuickList.$Separator$" />
+  <action id="CompareClipboardWithSelection" />
+  <action id="LocalHistory.ShowHistory" />
+  <action id="Console.Transaction.Commit" />
+  <action id="Console.Jdbc.ExplainPlan" />
+</list>
