@@ -1,7 +1,7 @@
 # intellijSettings
 My settings for Intellij
 
-##Installation process
+## Installation process
 Go to the intellij folder in your home folder and execute:
 ```
 git init
