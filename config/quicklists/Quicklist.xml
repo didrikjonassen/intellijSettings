@@ -10,6 +10,7 @@
   <action id="Vcs.ShowTabbedFileHistory" />
   <action id="QuickList.$Separator$" />
   <action id="CompareClipboardWithSelection" />
+  <action id="Git.CompareWithBranch" />
   <action id="LocalHistory.ShowHistory" />
   <action id="Console.Transaction.Commit" />
   <action id="Console.Jdbc.ExplainPlan" />
